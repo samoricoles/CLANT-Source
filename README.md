@@ -1,8 +1,4 @@
-# Claude Code - Source Leak
-
-This repository contains an unmodified leak of the source code for [Claude Code](https://github.com/anthropics/claude-code), Anthropic's AI-powered coding agent.
-
-Nothing has been added (besides this README), removed, or changed. This is the raw source as Leaked.
+# Interesting
 
 ## What's in here
 
@@ -12,12 +8,5 @@ Nothing has been added (besides this README), removed, or changed. This is the r
 - MCP (Model Context Protocol) server management
 - Permission system and sandboxing
 - CLI transport layers (SSE, WebSocket, hybrid)
-- Prompt construction and system prompt logic
+- Prompt construction and system prompt 
 
-## Why this exists
-
-For anyone who wants to read and study how Anthropic built their coding agent.
-
-## Disclaimer
-
-This is here for educational purposes only.
